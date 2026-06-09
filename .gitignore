@@ -1,0 +1,9 @@
+rag/.claude
+rag/.env
+rag/uploads/
+rag/chroma_db/
+rag/last_paper.txt
+rag/graph.json
+rag/doc_meta.json
+__pycache__/
+*.pyc
