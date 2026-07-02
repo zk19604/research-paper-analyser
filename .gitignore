@@ -7,3 +7,4 @@ rag/graph.json
 rag/doc_meta.json
 __pycache__/
 *.pyc
+.DS_Store
