@@ -2,9 +2,10 @@ fastapi
 uvicorn[standard]
 python-multipart
 chromadb
-ollama
 groq
 python-dotenv
 PyMuPDF
 pytesseract
 Pillow
+rank-bm25
+pdfplumber

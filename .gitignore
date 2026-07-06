@@ -8,3 +8,8 @@ rag/doc_meta.json
 __pycache__/
 *.pyc
 .DS_Store
+.env
+rag/sessions/
+frontend/dist/
+frontend/node_modules/
+rag/static/

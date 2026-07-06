@@ -9,3 +9,7 @@ body,
 #root {
   min-height: 100vh;
 }
+
+body {
+  background: #eae1ce;
+}
