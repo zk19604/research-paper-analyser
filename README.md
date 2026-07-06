@@ -1,3 +1,13 @@
+---
+title: Research Paper Analyser
+emoji: 📄
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Research Paper Analyser
 
 A retrieval-augmented (RAG) reading assistant for academic papers. Drop in a
