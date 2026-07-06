@@ -17,6 +17,8 @@ auto-generated **knowledge graph** of the paper's ideas. Upload several papers
 and it builds a **cross-paper graph** where shared methods and datasets bridge
 the papers that use them.
 
+You can test it out yourself at : https://zk19604-research-paper-analyser.hf.space/
+
 ![Main screen](images/main-screen.png)
 
 ## Notable features
